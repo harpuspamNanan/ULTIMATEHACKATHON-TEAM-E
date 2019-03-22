@@ -10,9 +10,15 @@ namespace C0732134
     {
         static void Main(string[] args)
         {
+
+            /*  Harpuspam Nanan [c0732134]
+             */
+
+
             int t = 0;
             string[] letters = new string[4] { "A", "B", "C", "D" };
             string[] names = new string[16] {"Harpuspam", "Sidharath", "Harpreet", "Shingharjeet", "Bableen", "Harman", "Harshil", "Nirmal", "Tirth", "Akash", "Lionel Messi", "Sergio Busquests", "Gerard Pique", "Mohammad Salah", "Wayne Rooney", "Bruce Wayne"};
+
 
 
             for (int j = 0; j <= 3; j++)
